@@ -1,0 +1,8 @@
+{
+    "Description" : {
+        "Cost" : 2000000,
+        "Rarity" : 10,
+        "Purchasable" : true,
+        "Id" : "Gear_Sensor_Prototype_EWE"
+    }
+}

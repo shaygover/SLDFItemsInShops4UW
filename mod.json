@@ -1,0 +1,17 @@
+{
+    "Name": "SLDFItemsInShops4UW",
+    "Enabled": true,
+    
+    "DependsOn": ["SLDFItemsInShops"],
+
+    "Version": "0.1.0",
+    "Description": "Adds Urban Warfare items to SLDFItemsInShops",
+    "Author": "tharbad08",
+    "Website": "",
+    "Contact": "Use github Issues",
+
+    "Manifest": [
+        { "Type": "ItemCollectionDef", "Path": "items", "ShouldAppendText": true },
+        { "Type": "UpgradeDef", "Path": "upgrade", "ShouldMergeJSON": true }
+    ]
+} 
