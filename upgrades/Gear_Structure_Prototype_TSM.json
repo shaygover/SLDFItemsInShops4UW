@@ -3,6 +3,9 @@
         "Cost" : 2000000,
         "Rarity" : 10,
         "Purchasable" : true,
-        "Id" : "Gear_Structure_Prototype_TSM"
+        "Id" : "Gear_Structure_Prototype_TSM",
+        "Name" : "Prototype Triple Strength Myomer",
+        "Details" : "This experimental upgrade to the basic myomer musculature of a 'Mech is intended to boost its speed without the need to increase its engine tonnage. It does provide a substantial movement bonus, but is highly unstable and can explode if damages by weapons fire.",
+        "Icon" : "UixSvgIcon_specialEquip_System"
     }
 }

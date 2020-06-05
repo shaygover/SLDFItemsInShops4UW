@@ -4,7 +4,7 @@
     
     "DependsOn": ["SLDFItemsInShops"],
 
-    "Version": "0.1.1",
+    "Version": "0.1.2",
     "Description": "Adds Urban Warfare items to SLDFItemsInShops",
     "Author": "tharbad08",
     "Website": "",
