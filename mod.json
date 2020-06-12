@@ -4,7 +4,7 @@
     
     "DependsOn": ["SLDFItemsInShops"],
 
-    "Version": "0.1.2",
+    "Version": "0.1.3",
     "Description": "Adds Urban Warfare items to SLDFItemsInShops",
     "Author": "tharbad08",
     "Website": "",
@@ -12,6 +12,6 @@
 
     "Manifest": [
         { "Type": "ItemCollectionDef", "Path": "items", "ShouldAppendText": true },
-        { "Type": "UpgradeDef", "Path": "upgrade", "ShouldMergeJSON": true }
+        { "Type": "UpgradeDef", "Path": "upgrades", "ShouldMergeJSON": true }
     ]
 } 
